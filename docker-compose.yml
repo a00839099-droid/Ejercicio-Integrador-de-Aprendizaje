@@ -1,4 +1,4 @@
-ervices:
+services:
   gateway:
     build: ./gateway
     expose:
